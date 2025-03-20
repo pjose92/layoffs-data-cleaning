@@ -138,6 +138,7 @@ DROP COLUMN row_num;
 |------------|------------|
 | `layoffs.sql` | Full SQL script for data cleaning |
 | `README.md`  | Project documentation (this file) |
+| `layoffs.cvs`  | Raw data file |
 
 ---
 
